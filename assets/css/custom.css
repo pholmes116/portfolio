@@ -1,7 +1,0 @@
-.site-logo {
-  width: 150px;     /* adjust to your liking */
-  height: auto;     /* keeps proportions */
-  border-radius: 50%; /* optional: circular crop */
-  display: block;
-  margin: 0 auto 1rem; /* centers it nicely */
-}
