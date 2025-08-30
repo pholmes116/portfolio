@@ -2,9 +2,11 @@
 #### Technical Skills: Python, R, Stata, Machine Learning, Statistical Analysis, Causal Inference
 
 ## Education
-- M.S., Data Science | The London School of Economics and Political Science (_August 2025_)
-- B.S., Economics | Duke University (_May 2021_)
-- B.A., Mathematics | Duke University (_May 2021_)
+- The London School of Economics and Political Science (_August 2025_)
+  - M.Sc. in Data Science
+- Duke University (_May 2021_)
+  - B.S. in Economics
+  - B.A. in Mathematics
 
 ## Projects
 
