@@ -9,6 +9,11 @@
   - B.A. in Mathematics
 
 ## Projects
+### Evaluating Synthetic Data for Financial Applications in Collaboration with Mastercard
+#### _Capstone Project, M.Sc. in Data Science at LSE | Nov 2024 - Aug 2025_
+
+This project was completed in collaboration with Mastercard as part of the final Capstone Project for my M.Sc. in Data Science at LSE. Due to a Non-Disclosure Agreement, I am unable to share the full report or code repository. However, the project involved work in Python (Pandas, Scikit-learn, AIF360), statistical bias assessment, fairness-aware preprocessing, and performance benchmarking across classification pipelines. This experience deepened my skills in designing reproducible evaluation frameworks, aligning data science methods with real-world business constraints, and working under strict data governance protocols in an enterprise environment.
+
 ### Predicting Player Trajectories in the National Football League Using Deep Learning
 ![NFL Trajectories](/assets/img/Predicted-NFL-play.png)
 - [Research Report](/projects/NFL-player-trajectories.pdf)
