@@ -10,7 +10,7 @@
 
 ## Projects
 ### Evaluating Synthetic Data for Financial Applications in Collaboration with Mastercard
-#### _Capstone Project, M.Sc. in Data Science at LSE | Nov 2024 - Aug 2025_
+#### _Capstone Project, M.Sc. in Data Science at LSE | November 2024 - August 2025_
 
 This project was completed in collaboration with Mastercard as part of the final Capstone Project for my M.Sc. in Data Science at LSE. Due to a Non-Disclosure Agreement, I am unable to share the full report or code repository. However, the project involved work in Python (Pandas, Scikit-learn, AIF360), statistical bias assessment, fairness-aware preprocessing, and performance benchmarking across classification pipelines. This experience deepened my skills in designing reproducible evaluation frameworks, aligning data science methods with real-world business constraints, and working under strict data governance protocols in an enterprise environment.
 
